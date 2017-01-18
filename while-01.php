@@ -1,5 +1,6 @@
 <?php
 
+// boucle
 while (true) {
 	echo "ce code s'exécutera toujours en boucle\n";
 }

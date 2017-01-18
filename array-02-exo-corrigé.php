@@ -6,9 +6,9 @@
 // et en mettant la dernière virgule
 
 $tab = array(
-	'foo bar baz',
-	'foo bar baz',
-	'foo bar baz',
+	'foo',
+	'bar',
+	'baz',
 );
 
 // affectez un tableau de 3 strings à une variable
@@ -17,7 +17,7 @@ $tab = array(
 // et en mettant la dernière virgule
 
 $tab = [
-	'foo bar baz',
-	'foo bar baz',
-	'foo bar baz',
+	'foo',
+	'bar',
+	'baz',
 ];
