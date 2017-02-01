@@ -14,4 +14,6 @@ $user = [
 	'active' => true,
 ];
 
-var_dump($user);
+echo 'id: ' . $user['id'] . "\n";
+echo 'name: ' . $user['name'] . "\n";
+echo 'active: ' . $user['active'] . "\n";
