@@ -6,6 +6,8 @@ try {
 	$conn->insert('joueurs', array(
 		'nom' => 'lorem ipsum',
 	));
+
+	echo 'id du dernier élément inséré : ' . $conn->lastInsertId();
 } catch (Exception $e) {
 	echo $e->getMessage();
 	exit();
