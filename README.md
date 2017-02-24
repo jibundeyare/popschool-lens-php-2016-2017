@@ -1,4 +1,4 @@
-sphps (2016-2017)
+# Cours de php (2016-2017)
 
 ## Description
 
